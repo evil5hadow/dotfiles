@@ -1,1 +1,10 @@
 !dotfiles_zsh/zsh/.gitignore
+
+# custom files
+dotfiles_zsh/zsh/custom/
+!dotfiles_zsh/zsh/custom/plugins/example
+!dotfiles_zsh/zsh/custom/example.zsh
+
+# temp files directories
+dotfiles_zsh/zsh/cache/
+dotfiles_zsh/zsh/log/
