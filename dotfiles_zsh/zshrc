@@ -85,6 +85,12 @@ export SSH_KEY_PATH="~/.ssh/keys"
 # For a full list of active aliases, run `alias`.
 
 # Aliases
+
+# ZSH
 alias zshconfig-edit="vim ~/.zshrc"
 alias zshconfig-source="source ~/.zshrc"
 alias dotfiles="cd ~/.dotfiles"
+
+# Git
+alias git-co="git commit -m"
+
